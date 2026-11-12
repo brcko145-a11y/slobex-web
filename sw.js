@@ -3,7 +3,7 @@
  * - fasst keine Server-Anfragen an (Nachrichten, Anmeldung) – die gehen immer direkt
  * - zeigt Benachrichtigungen (siehe unten)
  */
-const VERSION = "1.7.0-1794496045884";
+const VERSION = "1.7.1-1794497897010";
 const CACHE = "slobex-" + VERSION;
 const SCOPE = self.registration.scope;
 
